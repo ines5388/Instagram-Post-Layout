@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+   font-family:Roboto;  
+}
+
+
+.post {
+    background-color: white;
+    margin: auto;
+    width: 500px; 
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;  
+}
+
+#html5-icon {
+    font-size: 30px;
+    margin-right: 10px;  
+}
+
+#html {
+    margin-right: auto;
+}
+
+.parrafo-header {
+    margin: 0;
+}
+
+#menu-puntos {
+    font-size: 30px;
+}
+
+img {
+    width:100%; 
+}
+
+.footer {
+    padding: 15px;  
+}
+
+.iconos {
+    display:flex;
+    font-size: 30px;
+}
+
+.iconos-izquierda {
+    margin-right: 8px;
+}
+
+#bookmark {
+    margin-left: auto;
+}
+
